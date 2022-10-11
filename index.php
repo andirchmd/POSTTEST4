@@ -19,7 +19,8 @@
             <ul class="nav__links">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#jasa">Kategori</a></li>
-                <li><a href="#about" id="about-open">About</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="form.php">Form</a></li>
                 <li><button class="darkmode" id="darkmode-toggle">Light Mode</button></li>
             </ul>
         </nav>
